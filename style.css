@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.section-color {
+    background-color: #eeeeee; 
+    background-image: url("bg.jpg"); 
+    background-size: cover;
+    padding: 20px;
+}
+
+.color-box {
+    color: #ffffff;            
+    background-color: #007bff; 
+}
+
+.text-custom {
+    font-family: "Zen Maru Gothic", sans-serif;
+    font-size: 16px;           
+    font-weight: bold;        
+    line-height: 1.8;         
+    letter-spacing: 0.05em;    
+    color: #333333;            
+}
+
+.custom-list {
+    list-style: none;          
+    padding-left: 0;          
+}
+
+.custom-list li {
+    border-bottom: 1px solid #ccc; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
