@@ -31,3 +31,53 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.m-plus-1p-regular {
+  font-family: "M PLUS 1p", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kaisei-decol-regular {
+  font-family: "Kaisei Decol", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.box-sample{
+    width: 300px;
+    height: auto;
+    background-color: #eeeeee;
+    padding: 20px;
+    border: 5px solid #007bff;
+    margin: 40px auto;
+}
+
+.display-test {
+    background-color: #ffcccc; 
+    border: 2px solid #ff0000; 
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.circle img {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+
+  display: block;
+  margin-top: 40px;
+}
+
+.btn-error {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+
+    width: 200px;
+    height: 66px;
+    padding: 20px;
+    margin-top: 30px;
+}
